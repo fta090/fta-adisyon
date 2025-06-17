@@ -1,0 +1,50 @@
+[16:29:12] Menu dosyası bulunamadı veya boş. Yeni bir menü başlatılıyor.
+[16:29:31] Ürün eklendi: as - 21.0 TL
+[16:29:31] Menu başarıyla kaydedildi.
+[16:29:42] Ürün eklendi: fta - 13.0 TL
+[16:29:42] Menu başarıyla kaydedildi.
+[16:29:46] Toplam hesaplandı: 13.00 TL
+[16:29:46] Sipariş: fta x1 - 13.00 TL
+[16:29:47] Toplam hesaplandı: 26.00 TL
+[16:29:47] Sipariş: fta x1 - 13.00 TL
+[16:29:50] Toplam hesaplandı: 47.00 TL
+[16:29:50] Sipariş: as x1 - 21.00 TL
+[16:29:54] Sipariş başarıyla gönderildi.
+[16:30:11] Menu başarıyla yüklendi.
+[16:33:02] Menu başarıyla yüklendi.
+[16:33:15] Sipariş: fta x1 - 13.00 TL (Kasiyer: fta1)
+[16:33:16] Sipariş: as x1 - 21.00 TL (Kasiyer: fta1)
+[16:33:23] Adisyondan ürün çıkarıldı: as x1 = 21.00 TL (Kasiyer: fta1)
+[16:33:24] Sipariş: as x1 - 21.00 TL (Kasiyer: fta1)
+[16:33:29] Sipariş başarıyla gönderildi. Toplam: 34.00 TL (Kasiyer: fta1)
+[16:33:38] İade edildi: fta - 13.00 TL (Kasiyer: fta1)
+[16:33:45] Ciro görüntülendi: 55.00 TL (Kasiyer: fta1)
+[16:33:50] Menu başarıyla yüklendi.
+[16:34:07] Yetkisiz ürün ekleme denemesi: fta2
+[16:34:10] Sipariş: fta x1 - 13.00 TL (Kasiyer: fta2)
+[16:34:14] Yetkisiz iade denemesi: fta2
+[16:35:10] Sipariş: as x1 - 21.00 TL (Kasiyer: fta2)
+[16:35:12] Sipariş: fta x1 - 13.00 TL (Kasiyer: fta2)
+[16:35:19] Sipariş başarıyla gönderildi. Toplam: 47.00 TL (Kasiyer: fta2)
+[16:35:29] Ciro görüntülendi: 47.00 TL (Kasiyer: fta2)
+[16:35:31] Sipariş: as x1 - 21.00 TL (Kasiyer: fta2)
+[16:35:31] Sipariş: fta x1 - 13.00 TL (Kasiyer: fta2)
+[16:35:32] Sipariş başarıyla gönderildi. Toplam: 34.00 TL (Kasiyer: fta2)
+[16:35:39] Ciro görüntülendi: 81.00 TL (Kasiyer: fta2)
+[16:35:41] Sipariş: fta x1 - 13.00 TL (Kasiyer: fta2)
+[16:35:46] Yetkisiz iade denemesi: fta2
+[16:36:38] Yetkisiz ürün ekleme denemesi: fta2
+[16:36:46] Menu başarıyla yüklendi.
+[16:37:15] Ciro görüntülendi: 0.00 TL (Kasiyer: fta1)
+[16:37:16] Sipariş: fta x1 - 13.00 TL (Kasiyer: fta1)
+[16:37:16] Sipariş: fta x1 - 13.00 TL (Kasiyer: fta1)
+[16:37:18] Sipariş: as x1 - 21.00 TL (Kasiyer: fta1)
+[16:37:18] Sipariş: as x1 - 21.00 TL (Kasiyer: fta1)
+[16:37:20] Sipariş başarıyla gönderildi. Toplam: 68.00 TL (Kasiyer: fta1)
+[16:37:26] Ciro görüntülendi: 68.00 TL (Kasiyer: fta1)
+[16:37:27] Sipariş: fta x1 - 13.00 TL (Kasiyer: fta1)
+[16:37:35] İade edildi: fta - 13.00 TL (Kasiyer: fta1)
+[16:37:52] Ürün eklendi: ft - 21.0 TL (Ekleyen: fta1)
+[16:37:52] Menu başarıyla kaydedildi.
+[16:37:54] Sipariş: ft x1 - 21.00 TL (Kasiyer: fta1)
+[16:43:02] Menu başarıyla yüklendi.
